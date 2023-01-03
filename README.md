@@ -10,4 +10,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 
 
 ## Beginner
-- [Day 1]: Working with Variables in Python to Manage Data [DONE]
+- Day 1: Working with Variables in Python to Manage Data - Island Name Generator
