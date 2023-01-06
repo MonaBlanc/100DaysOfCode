@@ -13,3 +13,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 1: Island Name Generator (Working with Variables in Python to Manage Data)
 - Day 2: BMI and tip calculator (Understanding Data Types and How to Manipulate Strings)
 - Day 3: Pizza Order, Love Calculator, Treasure Islands (Control Flow and Logical Operators)
+- Day 4: Rock Paper Scissors (Randomisation and Python Lists)
