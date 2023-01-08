@@ -15,3 +15,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 3: Pizza Order, Love Calculator, Treasure Islands (Control Flow and Logical Operators)
 - Day 4: Rock Paper Scissors (Randomisation and Python Lists)
 - Day 5: Password Generator (Python loops)
+- Day 6: Escaping the maze (Python function)
