@@ -17,4 +17,5 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 5: Password Generator (Python loops)
 - Day 6: Escaping the maze (Python function)
 - Day 7: Hangman (Complex Problem/First Game with ASCII Art)
-- Day 8: Caesar Cipher & Function Parameters
+- Day 8: Caesar Cipher (Function Parameters)
+- Day 9: The Secret Auction (Dictionaries and Nesting)
