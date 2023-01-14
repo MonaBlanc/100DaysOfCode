@@ -20,3 +20,5 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 8: Caesar Cipher (Function Parameters)
 - Day 9: The Secret Auction (Dictionaries and Nesting)
 - Day 10: Calculator (Function Return Values)
+- Day 11: Blackjack 
+
