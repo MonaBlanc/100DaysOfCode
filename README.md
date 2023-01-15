@@ -22,3 +22,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 10: Calculator (Function Return Values)
 - Day 11: Blackjack 
 - Day 12: Scope and Namespacing in python
+- Day 13: Debugging in Python 
