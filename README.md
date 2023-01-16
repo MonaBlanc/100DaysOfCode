@@ -23,3 +23,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 11: Blackjack 
 - Day 12: Scope and Namespacing in python
 - Day 13: Debugging in Python 
+- Day 14: Higher Lower Game
