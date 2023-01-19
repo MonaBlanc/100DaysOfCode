@@ -25,3 +25,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 13: Debugging in Python 
 - Day 14: Higher Lower Game
 - Day 15: Coffee Machine (Local development introduction)
+- Day 16: Coffee Machine OOP Solution (OOP Introduction)
