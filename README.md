@@ -27,3 +27,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 15: Coffee Machine (Local development introduction)
 - Day 16: Coffee Machine OOP Solution (OOP Introduction)
 - Day 17: OOP Quiz Project with OpenTriviaDB (OOP Benefits)
+- Day 18 : Hirst Painting Project (Turtle and Graphical User Interface)
