@@ -32,3 +32,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 19: Turtle Race Project (Instances, State and Higher Order Functions)
 - Day 20: Snake Game Part 1 (Animation & Coordinates)
 - Day 21: Snake Game Part 2 (Inheritance)
+- Day 22
