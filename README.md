@@ -34,3 +34,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 21: Snake Game Part 2 (Inheritance & List Slicing)
 - Day 22: Pong Game
 - Day 23: Turtle Crossing Game
+- Day 24: Mail Merge Request (Files, Path & Directories)
