@@ -35,4 +35,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 22: Pong Game
 - Day 23: Turtle Crossing Game
 - Day 24: Mail Merge Request (Files, Path & Directories)
-- Day 25: Mail Merge Request (Reading CSV Dara in Python)
+- Day 25:  (Reading CSV Dara in Python)
