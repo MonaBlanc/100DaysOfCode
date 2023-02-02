@@ -41,4 +41,5 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 28: Pomodoro Timer (Tkinter, dynamic typing)
 - Day 29: Password Manager (Tkinter App)
 - Day 30: Password Manager reviewed (Errors, Exceptions and JSON Data)
+- Day 31: Flashcard APP Capstone Project
 - ## Intermediate +
