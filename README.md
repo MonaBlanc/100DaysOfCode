@@ -44,3 +44,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 31: Flashcard APP Capstone Project
 - ## Intermediate +
 - Day 32: Automated Birthday Wisher (Send Email (SMTPLib) and manage date (Datetime))
+- Day 33: Kanye Quote App (API Endpoints and parameters)
