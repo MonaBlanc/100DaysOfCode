@@ -45,3 +45,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - ## Intermediate +
 - Day 32: Automated Birthday Wisher (Send Email (SMTPLib) and manage date (Datetime))
 - Day 33: Kanye Quote App (API Endpoints and parameters)
+- Day 34: Quiz App (API Practice)
