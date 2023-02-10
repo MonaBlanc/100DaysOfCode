@@ -48,3 +48,4 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 34: Quiz App (API Practice)
 - [Work Trip : No computer] : 4 days
 - Day 35: SMS Rain Alert
+- Day 36: Stock Alerts Project
