@@ -47,5 +47,5 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 33: Kanye Quote App (API Endpoints and parameters)
 - Day 34: Quiz App (API Practice)
 - [Work Trip : No computer] : 4 days
-- Day 35: SMS Rain Alert
+- Day 35: SMS Rain Alert (Authentication & Environment Variables)
 - Day 36: Stock Alerts Project
