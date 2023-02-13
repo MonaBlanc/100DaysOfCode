@@ -49,3 +49,5 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - [Work Trip : No computer] : 4 days
 - Day 35: SMS Rain Alert (Authentication & Environment Variables)
 - Day 36: Stock Alerts Project
+- Day 37: Habit Tracking Project: API Post Requests & Headers
+- Day 38: Workout Tracking Using Google Sheets
