@@ -51,3 +51,6 @@ I want to get a completion to my coding knowledge and get to know Python, a lang
 - Day 36: Stock Alerts Project
 - Day 37: Habit Tracking Project: API Post Requests & Headers
 - Day 38: Workout Tracking Using Google Sheets
+- Day 39-40: Api Capstone Deal Flight Catcher App
+- Day 41: Introduction to HTML
+- Day 42: Intermediate HTML
